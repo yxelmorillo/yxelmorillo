@@ -194,7 +194,7 @@ Roles that align with my profile:
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [[Add your LinkedIn URL](https://www.linkedin.com/in/yxel-morillo/)
 - Email: Yxelmorilloconsultor@gmail.com
 - Portfolio Website: Coming soon
 
